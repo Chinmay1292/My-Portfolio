@@ -66,7 +66,7 @@ const Experience = () => {
             </article>
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
-              <h4>30 Days of Google Cloud</h4>
+              <h4>React Basics by Meta*</h4>
             </article>
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
@@ -78,7 +78,7 @@ const Experience = () => {
             </article>
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
-              <h4>MongoDB Atlas at Google Cloud</h4>
+              <h4>MongoDB Atlas on Google Cloud</h4>
             </article>
           </div>
         </div>
