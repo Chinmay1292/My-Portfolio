@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.63ffdcaa.css",
+    "main.js": "/static/js/main.6d56ca1a.js",
+    "static/media/collegepick.png": "/static/media/collegepick.0753c67b22e809c4bad2.png",
+    "static/media/dpl.png": "/static/media/dpl.a9d6cc51573a51a17fb3.png",
+    "static/media/Foodie.png": "/static/media/Foodie.92a4a90752af81c8f4ef.png",
+    "static/media/clf.png": "/static/media/clf.5850abe4d445505716d0.png",
+    "static/media/JARVISAI.jpg": "/static/media/JARVISAI.e9c6277990bf950ad679.jpg",
+    "static/media/me.jpg": "/static/media/me.da0bb8f8fbc9c4fa1f90.jpg",
+    "static/media/20BCY10060 Resume.pdf": "/static/media/20BCY10060 Resume.fbbea3815d935619b11f.pdf",
+    "static/media/weatherzip.png": "/static/media/weatherzip.4b2b32715b4887ef841a.png",
+    "index.html": "/index.html",
+    "main.63ffdcaa.css.map": "/static/css/main.63ffdcaa.css.map",
+    "main.6d56ca1a.js.map": "/static/js/main.6d56ca1a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63ffdcaa.css",
+    "static/js/main.6d56ca1a.js"
+  ]
+}
