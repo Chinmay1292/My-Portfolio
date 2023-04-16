@@ -1,10 +1,10 @@
 import React from 'react';
-import IMG1 from '../../assets/Foodie.png';
 import IMG2 from '../../assets/weatherzip.png';
 import IMG3 from '../../assets/collegepick.png';
 import IMG4 from '../../assets/dpl.png';
 import IMG5 from '../../assets/clf.png';
 import IMG6 from '../../assets/JARVISAI.jpg';
+import IMG7 from '../../assets/AIIG.png';
 
 import './portfolio.css';
 
@@ -12,13 +12,13 @@ const Portfolio = () => {
   const soloProjects = [
     {
       id: 1,
-      title: 'Foodie',
-      img: IMG1,
+      title: 'AI-IG',
+      img: IMG7,
       description:
-        'The online food ordering Web App made with MERN stack',
-      technologies: 'React | MongoDB | Express.js | Node.js',
-
-      github: 'https://github.com/Chinmay1292/Foodie',
+        'Simply enter your imagination, and AI-IG will create a corresponding image for you.',
+      technologies: 'MERN | ViteJS | Tailwind CSS | Cloudinary',
+      link: 'https://ai-ig.vercel.app',
+      github: 'https://github.com/Chinmay1292/AI-IG',
     },
     {
       id: 2,
