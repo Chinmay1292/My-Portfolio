@@ -20,7 +20,7 @@ const Intro = () => {
             <article className="about__card">
               <FaAward className="about__icon" />
               <h5>B.Tech.</h5>
-              <small>Pre-final year (CSE Cyber Security) from VIT, Bhopal - 8.83</small>
+              <small>Final year (CSE Cyber Security) from VIT, Bhopal - 8.83</small>
             </article>
             <article className="about__card">
               <VscFolderLibrary className="about__icon" />
