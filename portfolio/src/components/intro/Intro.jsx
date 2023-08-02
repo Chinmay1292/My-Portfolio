@@ -25,7 +25,12 @@ const Intro = () => {
             <article className="about__card">
               <VscFolderLibrary className="about__icon" />
               <h5>Class XII</h5>
-              <small>Shahu Dayanad Jr. College - 82.55%</small>
+              <small>Shahu Dayanad Jr. College - 82.62%</small>
+            </article>
+            <article className="about__card">
+              <VscFolderLibrary className="about__icon" />
+              <h5>Class X</h5>
+              <small>Mahaveer English School - 93.20%</small>
             </article>
           </div>
           <p>I am a skilled web developer with expertise in building efficient and scalable web applications using the MEAN/MERN stack. My passion for cybersecurity has enabled me to specialize in penetration testing, vulnerability assessment, and bug hunting, making web applications more secure. I have also practiced cloud-based solutions particularly the GCP, to enhance web application performance and reliability. I am continuously learning and staying up-to-date with the latest technological advancements to provide the best solutions to my clients.</p>
