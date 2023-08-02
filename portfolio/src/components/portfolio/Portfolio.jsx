@@ -1,10 +1,11 @@
 import React from 'react';
-import IMG2 from '../../assets/weatherzip.png';
 import IMG3 from '../../assets/collegepick.png';
 import IMG4 from '../../assets/dpl.png';
 import IMG5 from '../../assets/clf.png';
 import IMG6 from '../../assets/JARVISAI.jpg';
 import IMG7 from '../../assets/AIIG.png';
+import IMG8 from '../../assets/Crypto.png';
+import IMG9 from '../../assets/travel.png';
 
 import './portfolio.css';
 
@@ -16,19 +17,19 @@ const Portfolio = () => {
       img: IMG7,
       description:
         'Simply enter your imagination, and AI-IG will create a corresponding image for you.',
-      technologies: 'MERN | ViteJS | Tailwind CSS | Cloudinary',
+      technologies: 'MERN stack | ViteJS | Tailwind CSS | Cloudinary',
       link: 'https://ai-ig.vercel.app',
       github: 'https://github.com/Chinmay1292/AI-IG',
     },
     {
       id: 2,
-      title: 'Zipcode based Weather Mapping',
-      img: IMG2,
+      title: 'Travel Diary',
+      img: IMG9,
       description:
-        'Weather mapped using Zipcode which is more accurate and efficient',
-      technologies: 'Angular | Python | MySQL',
+        'Share & store all your travel memories at one destination like a traditional diary with modern touch.',
+      technologies: 'MERN stack | Google Maps API | Google OAuth',
       
-      github: 'https://github.com/Chinmay1292/',
+      github: 'https://github.com/Chinmay1292/Travel-Diary',
     },
     {
       id: 3,
@@ -41,6 +42,15 @@ const Portfolio = () => {
     },
     {
       id: 4,
+      title: 'Crypto Currency Tracker',
+      img: IMG8,
+      description:
+        ' Keep track of all available crypto-currencies at one place with additional graphical features.',
+      technologies: 'React | Chart.js | Firebase',
+      github: 'https://github.com/Chinmay1292/Crypto-Currency-Tracker',
+    },
+    {
+      id: 5,
       title: 'Detect & Prevent the Slow Loris Attack using Isolation Forest and Port Blocking',
       img: IMG4,
       description:
@@ -50,7 +60,7 @@ const Portfolio = () => {
       github: ' linkmix.co/11486890',
     },
     {
-      id: 5,
+      id: 6,
       title: 'Circuit-Level Firewall',
       img: IMG5,
       description:
@@ -60,7 +70,7 @@ const Portfolio = () => {
       github: 'https://github.com/Chinmay1292/Circuit-Level-Firewall',
     },
     {
-      id: 6,
+      id: 7,
       title: 'J.A.R.V.I.S AI Voice Assistant',
       img: IMG6,
       description:
