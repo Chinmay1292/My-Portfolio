@@ -62,14 +62,13 @@ const Experience = () => {
               <BsFillPatchCheckFill className="experience__details-icon" />
               <h4>Kali Linux</h4>
             </article>
-              <article className="experience__details">
+            <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
               <h4>Wireshark</h4>
-              <article className="experience__details">
+            </article>
+            <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
               <h4>Burpsuite</h4>
-            </article>
-            </article>
             </article>
           </div>
         </div>
