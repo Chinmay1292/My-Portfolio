@@ -9,7 +9,7 @@ const Experience = () => {
       <h2>Skills & Certifications</h2>
       <div className="container experience__container">
         <div className="experience__frontend">
-          <h3>Skills</h3>
+          <h3>Skills & Technologies</h3>
           <div className="experience__content">
           <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
@@ -50,6 +50,26 @@ const Experience = () => {
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
               <h4>MATLAB</h4>
+            </article>
+            <article className="experience__details">
+              <BsFillPatchCheckFill className="experience__details-icon" />
+              <h4>Node.js</h4>
+              <article className="experience__details">
+              <BsFillPatchCheckFill className="experience__details-icon" />
+              <h4>Web Penetration-Testing</h4>
+            </article>
+            <article className="experience__details">
+              <BsFillPatchCheckFill className="experience__details-icon" />
+              <h4>Kali Linux</h4>
+            </article>
+              <article className="experience__details">
+              <BsFillPatchCheckFill className="experience__details-icon" />
+              <h4>Wireshark</h4>
+              <article className="experience__details">
+              <BsFillPatchCheckFill className="experience__details-icon" />
+              <h4>Burpsuite</h4>
+            </article>
+            </article>
             </article>
           </div>
         </div>
