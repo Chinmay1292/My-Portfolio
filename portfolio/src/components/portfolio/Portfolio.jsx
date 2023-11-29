@@ -4,7 +4,7 @@ import IMG4 from '../../assets/dpl.png';
 import IMG5 from '../../assets/clf.png';
 import IMG6 from '../../assets/JARVISAI.jpg';
 import IMG7 from '../../assets/AIIG.png';
-import IMG8 from '../../assets/Crypto.png';
+import IMG8 from '../../assets/Geotude.png';
 import IMG9 from '../../assets/travel.png';
 
 import './portfolio.css';
@@ -42,12 +42,13 @@ const Portfolio = () => {
     },
     {
       id: 4,
-      title: 'Crypto Currency Tracker',
+      title: 'Geotude',
       img: IMG8,
       description:
-        ' Keep track of all available crypto-currencies at one place with additional graphical features.',
-      technologies: 'React | Chart.js | Firebase',
-      github: 'https://github.com/Chinmay1292/Crypto-Currency-Tracker',
+        'Provides a convenient and reliable way for patients to manage and access their medical information. The goal is to help patients better manage their health by allowing them to easily save and update their information.',
+      technologies: 'React | Node.js | MongoDB | AWS (multiple servies)',
+      link: 'https://geotude-front-end.vercel.app/',
+      github: 'https://github.com/EPICS-PROJECT',
     },
     {
       id: 5,
